@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iyEeOlZpT68HZt0AURReCIxs3iwBgIEUj0s2jhi2YFo=",
+  "Source": "dotnetapigateway",
+  "BasePath": "_content/dotnetapigateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

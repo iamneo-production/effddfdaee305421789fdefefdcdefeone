@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DHXcqxJsg2G+wgsXfz+DxPZ2RwBUzGxd4gALPxDkgH8=",
+  "Source": "dotnetmicroserviceone",
+  "BasePath": "_content/dotnetmicroserviceone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
